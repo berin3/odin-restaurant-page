@@ -1,3 +1,6 @@
+import HomePage from './pages/home';
 import './style.css';
 
-console.log("Hi");
+let content = document.querySelector("#content");
+
+content.appendChild(HomePage());
