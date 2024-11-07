@@ -38,8 +38,6 @@ nav > button {
     width: 100%;
     display: flex;
     flex-direction: column;
-    width: 550px;
-    padding: 50px;
 }
 
 .banner {
@@ -87,4 +85,16 @@ nav > button {
 .menu-img {
     width: 550px;
     height: auto;
+    margin: 50px auto;
+}
+
+.about {
+    width: 50%;
+    margin: 50px auto;
+    font-size: 1.5rem;
+    border: 1px dashed black;
+    padding: 20px;
+    background-color: sienna;
+    color: white;
+    line-height: 30px;
 }
