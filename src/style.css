@@ -70,10 +70,12 @@ nav > button {
     list-style-type: none;
     text-align: center;
     font-size: 1.2rem;
+    color: white;
 }
 
 .extra-text {
     font-size: 1.6rem;
     font-weight: bold;
     margin-bottom: 20px;
+    color: white;
 }
